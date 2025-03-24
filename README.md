@@ -11,8 +11,6 @@
 
 Проект на 5js.org:
 
-<iframe src="https://editor.p5js.org/dmitritius/full/xbCN7ebzr"></iframe>
-
 [https://editor.p5js.org/dmitritius/full/xbCN7ebzr](https://editor.p5js.org/dmitritius/sketches/xbCN7ebzr)
 
 [https://editor.p5js.org/dmitritius/sketches/xbCN7ebzr](https://editor.p5js.org/dmitritius/sketches/xbCN7ebzr)
